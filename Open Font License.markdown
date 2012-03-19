@@ -1,10 +1,10 @@
-	Copyright (c) 2010, Tyler Fink <hello@sursly.com>, with Reserved Font Name: "Blackout".
+	Copyright (c) 2012, Tyler Finck <hello@sursly.com>, with Reserved Font Name: "Blackout".
 
 	This Font Software is licensed under the SIL Open Font License, Version 1.1.
 	This license is copied below, and is also available with a FAQ at:
 	http://scripts.sil.org/OFL
 
-	Version 1.1 - 26 February 2007
+	Version 2.0 - 18 March 2012
 
 
 SIL Open Font License
