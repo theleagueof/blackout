@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="N" format="1">
-  <advance width="604"/>
-  <unicode hex="004E"/>
+<glyph name="(null)" format="1">
+  <advance width="0"/>
   <outline>
-    <contour>
-      <point x="549" y="744" type="line"/>
-      <point x="549" y="0" type="line"/>
-      <point x="379" y="0" type="line"/>
-      <point x="169" y="416" type="line"/>
-      <point x="169" y="0" type="line"/>
-      <point x="1" y="0" type="line"/>
-      <point x="1" y="744" type="line"/>
-      <point x="172" y="744" type="line"/>
-      <point x="381" y="329" type="line"/>
-      <point x="381" y="744" type="line"/>
-    </contour>
   </outline>
 </glyph>

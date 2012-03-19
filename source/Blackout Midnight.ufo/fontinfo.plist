@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>744</integer>
 	<key>copyright</key>
-	<string>Copyright (c) , 2008. All rights reserved.</string>
+	<string>Copyright (c) 2012 by SURSLY _ Tyler Finck. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-1</integer>
 	<key>familyName</key>
@@ -15,7 +15,11 @@
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
-	<string>2011/05/25 15:11:03</string>
+	<string>2012/03/19 11:54:23</string>
+	<key>openTypeHheaAscender</key>
+	<integer>744</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-1</integer>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Blackout</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -34,8 +38,6 @@
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-75</integer>
 	<key>postscriptWeightName</key>
 	<string>Regular</string>
 	<key>styleMapStyleName</key>

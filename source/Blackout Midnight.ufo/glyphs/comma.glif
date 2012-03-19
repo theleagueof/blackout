@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="comma" format="1">
-  <advance width="233"/>
-  <unicode hex="002C"/>
+<glyph name="(null)" format="1">
+  <advance width="0"/>
   <outline>
-    <contour>
-      <point x="168" y="168" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="115" y="-93" type="line"/>
-      <point x="12" y="-93" type="line"/>
-      <point x="65" y="0" type="line"/>
-      <point x="1" y="0" type="line"/>
-      <point x="1" y="168" type="line"/>
-    </contour>
   </outline>
 </glyph>
