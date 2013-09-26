@@ -1,0 +1,17 @@
+/*
+  'Blackout Midnight' (solid style)
+  https://www.theleagueofmoveabletype.com/blackout
+
+  Copyright (c) 2012, Tyler Finck <hello@sursly.com>,
+  with Reserved Font Name: "Blackout".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  http://scripts.sil.org/OFL
+*/
+@font-face {
+  font-family: 'Blackout Midnight';
+  src: url('blackout_midnight-webfont.eot?#iefix') format('embedded-opentype'),
+       url('blackout_midnight-webfont.woff') format('woff'),
+       url('blackout_midnight-webfont.ttf')  format('truetype'),
+       url('blackout_midnight-webfont.svg#BlackoutMidnight') format('svg');
+}
