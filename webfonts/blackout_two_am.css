@@ -10,6 +10,7 @@
 */
 @font-face {
   font-family: 'Blackout 2AM';
+  src: url('blackout_two_am-webfont.eot');
   src: url('blackout_two_am-webfont.eot?#iefix') format('embedded-opentype'),
        url('blackout_two_am-webfont.woff') format('woff'),
        url('blackout_two_am-webfont.ttf')  format('truetype'),
