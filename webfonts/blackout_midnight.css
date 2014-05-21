@@ -10,7 +10,7 @@
 */
 @font-face {
   font-family: 'Blackout Midnight';
-  src: url('blackout_midnight-webfont.eot'),
+  src: url('blackout_midnight-webfont.eot');
   src: url('blackout_midnight-webfont.eot?#iefix') format('embedded-opentype'),
        url('blackout_midnight-webfont.woff') format('woff'),
        url('blackout_midnight-webfont.ttf')  format('truetype'),

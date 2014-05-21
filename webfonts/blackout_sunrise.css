@@ -10,7 +10,7 @@
 */
 @font-face {
   font-family: 'Blackout Sunrise';
-  src: url('blackout_sunrise-webfont.eot'),
+  src: url('blackout_sunrise-webfont.eot');
   src: url('blackout_sunrise-webfont.eot?#iefix') format('embedded-opentype'),
        url('blackout_sunrise-webfont.woff') format('woff'),
        url('blackout_sunrise-webfont.ttf')  format('truetype'),
