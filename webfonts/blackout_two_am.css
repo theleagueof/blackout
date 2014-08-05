@@ -1,0 +1,18 @@
+/*
+  'Blackout 2AM' (reversed style)
+  https://www.theleagueofmoveabletype.com/blackout
+
+  Copyright (c) 2012, Tyler Finck <hello@sursly.com>,
+  with Reserved Font Name: "Blackout".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  http://scripts.sil.org/OFL
+*/
+@font-face {
+  font-family: 'Blackout 2AM';
+  src: url('blackout_two_am-webfont.eot');
+  src: url('blackout_two_am-webfont.eot?#iefix') format('embedded-opentype'),
+       url('blackout_two_am-webfont.woff') format('woff'),
+       url('blackout_two_am-webfont.ttf')  format('truetype'),
+       url('blackout_two_am-webfont.svg#BlackoutTwoAM') format('svg');
+}
